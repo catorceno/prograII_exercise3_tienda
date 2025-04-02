@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\GITHUB-005\tercer.semestre\6. progra II\S7 (tienda)\D14 (tienda)\others\prueba4_tienda_virtual\tienda\bin\Debug\net8.0\tienda.exe
+C:\Users\HP\Desktop\GITHUB-005\tercer.semestre\6. progra II\S7 (tienda)\D14 (tienda)\others\prueba4_tienda_virtual\tienda\bin\Debug\net8.0\tienda.deps.json
+C:\Users\HP\Desktop\GITHUB-005\tercer.semestre\6. progra II\S7 (tienda)\D14 (tienda)\others\prueba4_tienda_virtual\tienda\bin\Debug\net8.0\tienda.runtimeconfig.json
+C:\Users\HP\Desktop\GITHUB-005\tercer.semestre\6. progra II\S7 (tienda)\D14 (tienda)\others\prueba4_tienda_virtual\tienda\bin\Debug\net8.0\tienda.dll
+C:\Users\HP\Desktop\GITHUB-005\tercer.semestre\6. progra II\S7 (tienda)\D14 (tienda)\others\prueba4_tienda_virtual\tienda\bin\Debug\net8.0\tienda.pdb
+C:\Users\HP\Desktop\GITHUB-005\tercer.semestre\6. progra II\S7 (tienda)\D14 (tienda)\others\prueba4_tienda_virtual\tienda\obj\Debug\net8.0\tienda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\GITHUB-005\tercer.semestre\6. progra II\S7 (tienda)\D14 (tienda)\others\prueba4_tienda_virtual\tienda\obj\Debug\net8.0\tienda.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\GITHUB-005\tercer.semestre\6. progra II\S7 (tienda)\D14 (tienda)\others\prueba4_tienda_virtual\tienda\obj\Debug\net8.0\tienda.AssemblyInfo.cs
+C:\Users\HP\Desktop\GITHUB-005\tercer.semestre\6. progra II\S7 (tienda)\D14 (tienda)\others\prueba4_tienda_virtual\tienda\obj\Debug\net8.0\tienda.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\GITHUB-005\tercer.semestre\6. progra II\S7 (tienda)\D14 (tienda)\others\prueba4_tienda_virtual\tienda\obj\Debug\net8.0\tienda.sourcelink.json
+C:\Users\HP\Desktop\GITHUB-005\tercer.semestre\6. progra II\S7 (tienda)\D14 (tienda)\others\prueba4_tienda_virtual\tienda\obj\Debug\net8.0\tienda.dll
+C:\Users\HP\Desktop\GITHUB-005\tercer.semestre\6. progra II\S7 (tienda)\D14 (tienda)\others\prueba4_tienda_virtual\tienda\obj\Debug\net8.0\refint\tienda.dll
+C:\Users\HP\Desktop\GITHUB-005\tercer.semestre\6. progra II\S7 (tienda)\D14 (tienda)\others\prueba4_tienda_virtual\tienda\obj\Debug\net8.0\tienda.pdb
+C:\Users\HP\Desktop\GITHUB-005\tercer.semestre\6. progra II\S7 (tienda)\D14 (tienda)\others\prueba4_tienda_virtual\tienda\obj\Debug\net8.0\tienda.genruntimeconfig.cache
+C:\Users\HP\Desktop\GITHUB-005\tercer.semestre\6. progra II\S7 (tienda)\D14 (tienda)\others\prueba4_tienda_virtual\tienda\obj\Debug\net8.0\ref\tienda.dll
